@@ -1,0 +1,83 @@
+{ "data": [
+    { 
+      "id":1,
+      "name":"FEJKA 페이카",
+      "info":"인조식물, 실내외겸용/걸이형, 9 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-hanging__0748530_pe745055_s5.jpg",
+      "price":6900,
+      "category":"plants"
+    },
+    { 
+      "id":2,
+      "name":"BERGGRAN 베리그란",
+      "info":"양초홀더, 그레이, 9 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/berggran-candle-holder-grey__1328628_pe944870_s5.jpg",
+      "price":2900,
+      "category":"candle"
+    },
+    { 
+      "id":3,
+      "name":"ROSENSLÅN 로센슬론",
+      "info":"미니향초, 앰버 & 장미/레드/브라운, 3.5 시",
+      "img":"https://www.ikea.com/kr/ko/images/products/rosenslan-scented-tealight-amber-rose-red-brown__1151232_pe884847_s5.jpg",
+      "price":3900,
+      "category":"candle"
+    },
+    { 
+      "id":4,
+      "name":"FEJKA 페이카",
+      "info":"인조식물+화분 3종, 실내외겸용 옐로/핑크 퍼플, 6 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-in-outdoor-yellow-orange__1273387_pe930049_s5.jpg",
+      "price":5500,
+      "category":"plants"
+    },
+    { 
+      "id":5,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"벽장식, 대나무/블랙",
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-wall-decoration-bamboo-black__0951966_pe801476_s5.jpg",
+      "price":12900,
+      "category":"winter"
+    },
+    { 
+      "id":6,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"가랜드, 핸드메이드 하트 모양/레드, 1.9 m",
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-garland-handmade-heart-shaped-red__1202629_pe906023_s5.jpg",
+      "price":2900,
+      "category":"deco"
+    },
+    { 
+      "id":7,
+      "name":"SMYCKA 스뮈카",
+      "info":"조화부케, 실내외겸용/옐로 오렌지, 30 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-in-outdoor-yellow-orange__1248050_pe922960_s5.jpg",
+      "price":7900,
+      "category":"plants"
+    },
+    { 
+      "id":8,
+      "name":"VINTERFINT 빈테르핀",
+      "info":"스트링쌕, 플로럴 패턴 베이지, 90x56 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-sack-with-string-floral-pattern-beige__1195809_pe902593_s5.jpg",
+      "price":8900,
+      "category":"deco"
+    },
+    { 
+      "id":9,
+      "name":"SMYCKA 스뮈카",
+      "info":"조화부케, 다크핑크, 50 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-dark-pink__0903036_pe685246_s5.jpg",
+      "price":19900,
+      "category":"plants"
+    },
+    { 
+      "id":10,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"장식품, 크리스마스 트리 모양 소나무/화이트, 49 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-decoration-christmas-tree-shaped-pine-white__1153598_ph187700_s5.jpg",
+      "price":39900,
+      "category":"winter"
+    }
+  ]
+}
